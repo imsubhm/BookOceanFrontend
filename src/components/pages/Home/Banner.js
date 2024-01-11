@@ -45,7 +45,7 @@ const Banner = () => {
       >
         <Grid sm={6} sx={{ px: { md: 16, xs: 4 } }}>
           <Typography variant="h3" gutterBottom>
-            BOOKS 2023
+            BOOKS 2024
           </Typography>
           <Typography
             variant="body1"
